@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-2-1.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Paragraph ends in dialog that continues in the next paragraph.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
