@@ -33,9 +33,10 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man travels to Earth’s distant future.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Using a time machine, an unnamed narrator is sent half a million years into the future in order to investigate the whereabouts of two men previously sent to the same time period and failed to return. Upon arriving, he makes contact with the Amphibians, a telepathic humanoid race, who live in an uneasy peace with the Dwellers, the inhabitants of Earth’s subterranean territories.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/s-fowler-wright"&gt;S. Fowler Wright&lt;/a&gt; originally intended to write a trilogy, starting with &lt;i&gt;The Amphibians&lt;/i&gt; in 1924 followed by &lt;i&gt;The World Below&lt;/i&gt; in 1929, which contains both parts. The third part of the trilogy was never written, and so the novel ends in a cliffhanger.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76352</dc:source>
