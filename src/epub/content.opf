@@ -41,7 +41,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76352</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102039393</dc:source>
-		<meta property="se:word-count">104662</meta>
+		<meta property="se:word-count">104420</meta>
 		<meta property="se:reading-ease.flesch">65.25</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_World_Below</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/s-fowler-wright_the-world-below</meta>
