@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-2-1.xhtml">
 		<ignore code="t-003">
+			<line>29</line>
 			<reason>Paragraph ends in dialog that continues in the next paragraph.</reason>
 		</ignore>
 	</file>
