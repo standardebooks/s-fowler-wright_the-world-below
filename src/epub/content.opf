@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/s-fowler-wright/the-world-below</dc:identifier>
 		<dc:date>2026-01-07T18:33:25Z</dc:date>
@@ -34,11 +34,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">A time traveler travels to Earth’s distant future in search of two predecessors lost in the same era.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A time traveler travels to Earth’s distant future in search of two predecessors lost in the same era.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Using a time machine, an unnamed narrator is sent half a million years into the future in order to investigate the whereabouts of two men previously sent to the same time period and failed to return. Upon arriving, he makes contact with the Amphibians, a telepathic humanoid race, who live in an uneasy peace with the Dwellers, the inhabitants of Earth’s subterranean territories.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/s-fowler-wright"&gt;S. Fowler Wright&lt;/a&gt; originally intended to write a trilogy. The first part, &lt;i&gt;The Amphibians&lt;/i&gt; was published in 1924, followed by the second part in 1929. The third part was never written. This edition includes both published parts, with the ending being a symptom of Wright’s having left the trilogy incomplete.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76352</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102039393</dc:source>
