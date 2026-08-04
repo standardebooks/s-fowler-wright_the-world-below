@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A time traveler travels to Earth’s distant future in search of two predecessors lost in the same era.</dc:abstract>
+		<meta property="schema:abstract">A time traveler travels to Earth’s distant future in search of two predecessors lost in the same era.</meta>
 		<dc:description>
 			&lt;p&gt;Using a time machine, an unnamed narrator is sent half a million years into the future in order to investigate the whereabouts of two men previously sent to the same time period and failed to return. Upon arriving, he makes contact with the Amphibians, a telepathic humanoid race, who live in an uneasy peace with the Dwellers, the inhabitants of Earth’s subterranean territories.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/s-fowler-wright"&gt;S. Fowler Wright&lt;/a&gt; originally intended to write a trilogy. The first part, &lt;i&gt;The Amphibians&lt;/i&gt; was published in 1924, followed by the second part in 1929. The third part was never written. This edition includes both published parts, with the ending being a symptom of Wright’s having left the trilogy incomplete.&lt;/p&gt;
